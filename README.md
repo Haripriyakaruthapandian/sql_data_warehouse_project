@@ -34,6 +34,8 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+Progress and tracking Project:
+  Notion: https://silly-plantain-227.notion.site/Data-Warehouse-Project-1c0717077df9804fb03cd60b51e2e45c?pvs=4
 
 🌟 About Me
 Hi there! I'm Haripriya, also known as Haripriya Karuthapandian. I’m an IT professional with 4.5 years experience and seeking a transition into a Data Engineering / Analytics role, with growing hands-on exposure to SQL, ETL concepts, and data pipeline design. Currently building expertise in core data engineering tools and platforms to contribute effectively to modern data-driven organizations and make working with data enjoyable and engaging!
