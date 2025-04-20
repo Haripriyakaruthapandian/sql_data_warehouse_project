@@ -35,6 +35,7 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 Progress and tracking Project:
+
   Notion: https://silly-plantain-227.notion.site/Data-Warehouse-Project-1c0717077df9804fb03cd60b51e2e45c?pvs=4
 
 🌟 About Me
